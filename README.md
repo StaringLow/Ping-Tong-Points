@@ -90,12 +90,12 @@ Cette version reprend les mécaniques essentielles du jeu original :
 python Développement/Game/main.py
 ```
 
-## 🎮 Contrôles *(à venir)*
+## 🎮 Contrôles
 
 | Action                 | Joueur 1 (gauche) | Joueur 2 (droite) |
 |------------------------|:------------------:|:-------------------:|
-| Déplacer vers le haut  | `Z` / `↑`          | `↑`                 |
-| Déplacer vers le bas   | `S` / `↓`          | `↓`                 |
+| Déplacer vers le haut  | `w`                | `↑`                 |
+| Déplacer vers le bas   | `s`                | `↓`                 |
 | Quitter le jeu         | Fermer la fenêtre  | —                   |
 
 ## 📁 Structure du projet
