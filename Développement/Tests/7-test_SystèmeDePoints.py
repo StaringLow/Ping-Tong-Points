@@ -1,10 +1,10 @@
 """
 Nom : Ping-Tong-Points
 Auteur : StaringLow
-Fichier : main.py
-Création : 05-09-2026
-Version : 1.00
-Description : Le fichier du jeu Ping Tong Points. (Le jeu est en cours de développement.)
+Fichier : 7-test_SystèmeDePoints.py
+Création : 06-09-2026
+Version : 1.0
+Description : Développement du système de points pour le jeu Ping-Tong-Points. (Test de la création du système de points.)
 """
 
 ###################
