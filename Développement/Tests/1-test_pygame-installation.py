@@ -11,8 +11,8 @@ Description : Test d'installation de Pygame + création de la fenêtre de jeu.
 import pygame
 
 # Initialisation des variables du jeu.
-running = True
-
+running = True # Permet de démarrer la page de jeu.
+ 
 # Initialisation de pygame (Initialisation du son, affichage, etc...)
 pygame.init()
 

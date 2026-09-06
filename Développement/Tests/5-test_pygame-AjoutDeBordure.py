@@ -3,7 +3,7 @@ Nom : Ping-Tong-Points
 Auteur : StaringLow
 Fichier : 5-test_pygame-AjoutDeBordure.py
 Création : 06-09-2026
-Version : 0.02
+Version : 0.01
 Description : Création de bordure pour que les joueurs restent dans le terrain de jeu. (Test de la création des bordures.)
 """
 
@@ -23,6 +23,7 @@ running = True # Permet de démarrer la page de jeu.
 player1_y = 250 # Position de départ du joueur 1 (Côté gauche du terrain de jeu.)
 player2_y = 250 # Position de départ du joueur 2 (Côté droit du terrain de jeu.)
 player_speed = 0.3 # Vitesse de déplacement des joueurs.
+
 
 ######################
 ### INITIALISATION ###
