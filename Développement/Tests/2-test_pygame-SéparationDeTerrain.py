@@ -11,7 +11,7 @@ Description : Test de la séparation entre terrain des deux joueurs. (Test de la
 import pygame
 
 # Initialisation des variables du jeu.
-running = True
+running = True # Permet de démarrer la page de jeu.
 
 # Initialisation de pygame (Initialisation du son, affichage, etc...)
 pygame.init()

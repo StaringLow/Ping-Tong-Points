@@ -1,5 +1,4 @@
 # Ping-Tong-Points 🏓
-<<<<<<< HEAD
 
 Un clone du jeu **Pong**, le tout premier jeu vidéo d'arcade sorti en **1972**, recréé en **Python** avec **Pygame**.
 
