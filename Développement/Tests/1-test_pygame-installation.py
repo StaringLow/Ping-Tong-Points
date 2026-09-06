@@ -1,7 +1,7 @@
 """
 Nom : Ping-Tong-Points
 Auteur : StaringLow
-Fichier : test_pygame-installation.py
+Fichier : 1-test_pygame-installation.py
 Création : 05-09-2026
 Version : 1.00
 Description : Test d'installation de Pygame + création de la fenêtre de jeu.

@@ -3,7 +3,7 @@ Nom : Ping-Tong-Points
 Auteur : StaringLow
 Fichier : 5-test_pygame-AjoutDeBordure.py
 Création : 06-09-2026
-Version : 0.01
+Version : 1.00
 Description : Création de bordure pour que les joueurs restent dans le terrain de jeu. (Test de la création des bordures.)
 """
 

@@ -1,7 +1,7 @@
 """
 Nom : Ping-Tong-Points
 Auteur : StaringLow
-Fichier : test_pygame-SéparationDeTerrain.py
+Fichier : 2-test_pygame-SéparationDeTerrain.py
 Création : 05-09-2026
 Version : 1.00
 Description : Test de la séparation entre terrain des deux joueurs. (Test de la ligne centrale du terrain de jeu.)

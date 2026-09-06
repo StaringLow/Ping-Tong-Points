@@ -1,7 +1,7 @@
 """
 Nom : Ping-Tong-Points
 Auteur : StaringLow
-Fichier : test_pygame-CréationDesJoueurs(NonJouable).py
+Fichier : 3-test_pygame-CréationDesJoueurs(NonJouable).py
 Création : 05-09-2026
 Version : 1.00
 Description : Création des joueurs (Non jouable) pour le jeu Ping-Tong-Points. (Test de la création des joueurs.)
